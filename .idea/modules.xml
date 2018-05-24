@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/jpa-example.iml" filepath="$PROJECT_DIR$/jpa-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-ee-webroute-AndrasNyiri.iml" filepath="$PROJECT_DIR$/java-ee-webroute-AndrasNyiri.iml" />
     </modules>
   </component>
 </project>
